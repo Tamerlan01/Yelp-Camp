@@ -10,6 +10,7 @@
 
 ##Run
  * If you use cloud9 to run the project
+ * Open the workspace "demo" 
  * By default command prompt starts in ~/workspace folder
  * Go one step back in path by cd..
  * Run ./mongod command and keep terminal open
